@@ -1,0 +1,6 @@
+main_app:
+  title: "Serial App"
+  width: 800
+  height: 600
+  background_image: "assets/fondo.jpg" 
+  
